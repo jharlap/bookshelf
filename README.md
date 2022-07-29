@@ -19,3 +19,6 @@
 15. *The Manager's Path* Fournier, C
 16. *The Coaching Habit* Stanier, M
 17. *Say What You Mean: A Mindful Approach to Nonviolent Communication* Sofer, O
+18. *Find Your Why* Sinek, S
+19. *Start With Why* Sinek, S
+20. *Leaders Eat Last* Sinek, S
