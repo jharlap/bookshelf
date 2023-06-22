@@ -22,3 +22,4 @@
 18. *Find Your Why* Sinek, S
 19. *Start With Why* Sinek, S
 20. *Leaders Eat Last* Sinek, S
+21. *Thinking In Bets* Duke, A
