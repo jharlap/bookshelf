@@ -23,3 +23,4 @@
 19. *Start With Why* Sinek, S
 20. *Leaders Eat Last* Sinek, S
 21. *Thinking In Bets* Duke, A
+22. *An Elegant Puzzle* Larson, W
