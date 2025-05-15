@@ -24,3 +24,4 @@
 20. *Leaders Eat Last* Sinek, S
 21. *Thinking In Bets* Duke, A
 22. *An Elegant Puzzle* Larson, W
+23. *Meeting Design* Hoffman, K
